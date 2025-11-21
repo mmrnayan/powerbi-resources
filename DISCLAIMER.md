@@ -54,23 +54,6 @@ While feedback and questions are welcome, there is:
 - No commitment to address issues or feature requests
 - No service level agreement of any kind
 
-## Reporting Issues
-
-Users are welcome to report bugs, issues, or suggest improvements via GitHub Issues. However:
-
-- Issue reports do not create any obligation for the author(s) to respond or fix
-- Response times are not guaranteed
-- Issues may be closed without resolution at the author's discretion
-- The author(s) may prioritize or address issues at their sole discretion
-- Submitting an issue does not guarantee it will be acknowledged or resolved
-
-When reporting issues, please:
-
-- Provide clear, detailed information about the problem
-- Include steps to reproduce the issue
-- Specify your Power BI version and environment
-- Be respectful and understand this is a free resource
-
 ## Third-Party Components
 
 Some resources may incorporate or reference third-party libraries, tools, or services. Users are responsible for:
@@ -79,7 +62,7 @@ Some resources may incorporate or reference third-party libraries, tools, or ser
 - Understanding dependencies and their implications
 - Verifying compatibility and security of third-party components
 
-## Organizational Compliance
+## Organisational Compliance
 
 Users must ensure that use of these resources complies with:
 
@@ -120,4 +103,4 @@ By downloading, installing, or using any resources from this repository, you ack
 
 **Last Updated:** November 2025
 
-*If you have concerns about using these resources in your organization, please consult with your IT department or legal counsel.*
+*If you have concerns about using these resources in your organisation, please consult with your IT department or legal counsel.*

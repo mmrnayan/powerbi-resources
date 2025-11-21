@@ -7,7 +7,7 @@ The Ultimate Trading Chart is a comprehensive Power BI custom visual designed fo
 
 ![Head and Shoulders Pattern Detection](Images/Pattern_head_and_shoulders.png)
 
-## Installation 
+## Installation
 
 1. Download the `.pbiviz` file from this repository
 2. In Power BI Desktop, click the ellipsis (...) in the Visualizations pane
